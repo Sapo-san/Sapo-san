@@ -3,7 +3,7 @@
 ## 💫 About Me:
 Chilean 🇨🇱 | Videogame enjoyer 🎮 | Computer Science Enthusiast 🖥️ | Frog in disguise 🐸
 
-After five years of studying engineering in computing at my uni, I decided it was time for a change: I put my studies on hold this year (2022) and I enrolled for Henry Bootcamp so I could finally start applying the knowledge I've been acquiring all these years and learn more in detail about web development. I like learning new things, I like challenges and I love programming.
+After six years of studying engineering in computing at my uni, I decided it was time for a change: I put my studies on hold this year (2022) and I enrolled for Henry Bootcamp so I could finally start applying the knowledge I've been acquiring all these years and learn more in detail about web development. I like learning new things, I like challenges and I love programming.
 
 ## 💻 Tech Stack:
 My current Tech stack is the following:
