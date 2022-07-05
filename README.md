@@ -1,6 +1,8 @@
 
 # Cristóbal Herreros Viviani - Fullstack Software Developer
 ## 💫 About Me:
+Chilean 🇨🇱 | Videogame enjoyer 🎮 | Computer Science Enthusiast 🖥️ | Frog in disguise 🐸
+
 After five years of studying engineering in computing at my uni, I decided it was time for a change: I put my studies on hold this year (2022) and I enrolled for Henry Bootcamp so I could finally start applying the knowledge I've been acquiring all these years and learn more in detail about web development. I like learning new things, I like challenges and I love programming.
 
 ## 💻 Tech Stack:
@@ -16,7 +18,7 @@ I am also familiar with the following tech that I used at uni for student projec
 
 ## Contact Information
 - [Linkedin Profile](https://www.linkedin.com/in/crist%C3%B3bal-herreros-viviani-50122b1b7/)
-- [My email](mailto:cristobal.herreros@gmail.com)
+- 📧 [My email](mailto:cristobal.herreros@gmail.com)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Sapo-san&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
