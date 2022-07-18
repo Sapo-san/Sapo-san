@@ -17,7 +17,7 @@ I am also familiar with the following tech that I used at uni for student projec
 - Backend / DevOps: Docker, Amazon Web Services (EC2, S3, Cloudfront, Lambda), Heroku
 
 ## Contact Information
-- [Linkedin Profile](https://www.linkedin.com/in/crist%C3%B3bal-herreros-viviani-50122b1b7/)
+- [Linkedin Profile](https://www.linkedin.com/in/cristobalherreros/)
 - 📧 [My email](mailto:cristobal.herreros@gmail.com)
 
 # 📊 GitHub Stats:
