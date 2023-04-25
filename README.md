@@ -1,9 +1,9 @@
 
 # Cristóbal Herreros Viviani - Fullstack Software Developer
 ## 💫 About Me:
-Chilean 🇨🇱 | Videogame enjoyer 🎮 | Computer Science Enthusiast 🖥️ | Frog in disguise 🐸
+Chilean 🇨🇱 | Videogame enjoyer 🎮 | Computer Science Enthusiast 🖥️ 
 
-After six years of studying engineering in computing at my uni, I decided it was time for a change: I put my studies on hold this year (2022) and I enrolled for Henry Bootcamp to learn more in detail about web development and finally start applying the knowledge I've been acquiring all these years. I like learning new things, I like challenges and I love programming.
+I like learning new things, I like challenges and I love programming.
 
 **I'm currently working as Development Engineer at [Evoluciona Chile](https://www.evoluciona.cl), so I may not be particularly active in here.**
 
