@@ -5,7 +5,7 @@ Chilean 🇨🇱 | Videogame enjoyer 🎮 | Computer Science Enthusiast 🖥️
 
 I like learning new things, challenges and programming. I enjoy HEMA Longsword fencing, reading/watching sci-fi and fantasy and sometimes like to write stuff but not code.
 
-**I'm currently working as Development Engineer at [Evoluciona Chile](https://www.evoluciona.cl) as external employee for [Entel](https://www.entel.cl/), so I may not be particularly active in here.**
+**I'm currently working as Developer at [Entel](https://www.entel.cl/), so I may not be particularly active in here.**
 
 ## 💻 My Tech Stack:
 ### Programming languages
